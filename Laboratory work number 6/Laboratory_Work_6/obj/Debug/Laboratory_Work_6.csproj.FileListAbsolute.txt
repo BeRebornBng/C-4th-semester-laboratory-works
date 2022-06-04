@@ -1,0 +1,22 @@
+C:\Users\Bakit\source\repos\Laboratory_Work_6\Laboratory_Work_6\bin\Debug\Laboratory_Work_6.exe.config
+C:\Users\Bakit\source\repos\Laboratory_Work_6\Laboratory_Work_6\bin\Debug\Laboratory_Work_6.exe
+C:\Users\Bakit\source\repos\Laboratory_Work_6\Laboratory_Work_6\bin\Debug\Laboratory_Work_6.pdb
+C:\Users\Bakit\source\repos\Laboratory_Work_6\Laboratory_Work_6\obj\Debug\Laboratory_Work_6.csproj.AssemblyReference.cache
+C:\Users\Bakit\source\repos\Laboratory_Work_6\Laboratory_Work_6\obj\Debug\Laboratory_Work_6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bakit\source\repos\Laboratory_Work_6\Laboratory_Work_6\obj\Debug\Laboratory_Work_6.Form1.resources
+C:\Users\Bakit\source\repos\Laboratory_Work_6\Laboratory_Work_6\obj\Debug\Laboratory_Work_6.Properties.Resources.resources
+C:\Users\Bakit\source\repos\Laboratory_Work_6\Laboratory_Work_6\obj\Debug\Laboratory_Work_6.csproj.GenerateResource.cache
+C:\Users\Bakit\source\repos\Laboratory_Work_6\Laboratory_Work_6\obj\Debug\Laboratory_Work_6.csproj.CoreCompileInputs.cache
+C:\Users\Bakit\source\repos\Laboratory_Work_6\Laboratory_Work_6\obj\Debug\Laboratory_Work_6.exe
+C:\Users\Bakit\source\repos\Laboratory_Work_6\Laboratory_Work_6\obj\Debug\Laboratory_Work_6.pdb
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 6\Laboratory_Work_6\bin\Debug\Laboratory_Work_6.exe.config
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 6\Laboratory_Work_6\bin\Debug\Laboratory_Work_6.exe
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 6\Laboratory_Work_6\bin\Debug\Laboratory_Work_6.pdb
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 6\Laboratory_Work_6\obj\Debug\Laboratory_Work_6.csproj.AssemblyReference.cache
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 6\Laboratory_Work_6\obj\Debug\Laboratory_Work_6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 6\Laboratory_Work_6\obj\Debug\Laboratory_Work_6.Form1.resources
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 6\Laboratory_Work_6\obj\Debug\Laboratory_Work_6.Properties.Resources.resources
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 6\Laboratory_Work_6\obj\Debug\Laboratory_Work_6.csproj.GenerateResource.cache
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 6\Laboratory_Work_6\obj\Debug\Laboratory_Work_6.csproj.CoreCompileInputs.cache
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 6\Laboratory_Work_6\obj\Debug\Laboratory_Work_6.exe
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 6\Laboratory_Work_6\obj\Debug\Laboratory_Work_6.pdb

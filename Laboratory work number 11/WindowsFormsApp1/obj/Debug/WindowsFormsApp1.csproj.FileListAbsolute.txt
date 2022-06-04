@@ -1,0 +1,22 @@
+C:\Users\Bakit\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Bakit\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Bakit\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Bakit\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Bakit\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bakit\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Bakit\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Bakit\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Bakit\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Bakit\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Bakit\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 11\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 11\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 11\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Bakit\source\repos\C#4thSemester\Laboratory work number 11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

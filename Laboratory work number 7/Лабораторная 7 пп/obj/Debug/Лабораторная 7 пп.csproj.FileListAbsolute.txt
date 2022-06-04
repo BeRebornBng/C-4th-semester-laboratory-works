@@ -1,0 +1,11 @@
+C:\Users\Bakit\source\repos\Лабораторная 7 пп\Лабораторная 7 пп\bin\Debug\Лабораторная 7 пп.exe.config
+C:\Users\Bakit\source\repos\Лабораторная 7 пп\Лабораторная 7 пп\bin\Debug\Лабораторная 7 пп.exe
+C:\Users\Bakit\source\repos\Лабораторная 7 пп\Лабораторная 7 пп\bin\Debug\Лабораторная 7 пп.pdb
+C:\Users\Bakit\source\repos\Лабораторная 7 пп\Лабораторная 7 пп\obj\Debug\Лабораторная 7 пп.csproj.AssemblyReference.cache
+C:\Users\Bakit\source\repos\Лабораторная 7 пп\Лабораторная 7 пп\obj\Debug\Лабораторная 7 пп.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bakit\source\repos\Лабораторная 7 пп\Лабораторная 7 пп\obj\Debug\Лабораторная_7_пп.Form1.resources
+C:\Users\Bakit\source\repos\Лабораторная 7 пп\Лабораторная 7 пп\obj\Debug\Лабораторная_7_пп.Properties.Resources.resources
+C:\Users\Bakit\source\repos\Лабораторная 7 пп\Лабораторная 7 пп\obj\Debug\Лабораторная 7 пп.csproj.GenerateResource.cache
+C:\Users\Bakit\source\repos\Лабораторная 7 пп\Лабораторная 7 пп\obj\Debug\Лабораторная 7 пп.csproj.CoreCompileInputs.cache
+C:\Users\Bakit\source\repos\Лабораторная 7 пп\Лабораторная 7 пп\obj\Debug\Лабораторная 7 пп.exe
+C:\Users\Bakit\source\repos\Лабораторная 7 пп\Лабораторная 7 пп\obj\Debug\Лабораторная 7 пп.pdb

@@ -1,0 +1,11 @@
+C:\Users\Bakit\source\repos\Лабораторная 8\Лабораторная 8\obj\Debug\Лабораторная 8.csproj.AssemblyReference.cache
+C:\Users\Bakit\source\repos\Лабораторная 8\Лабораторная 8\obj\Debug\Лабораторная 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bakit\source\repos\Лабораторная 8\Лабораторная 8\obj\Debug\Лабораторная_8.Properties.Resources.resources
+C:\Users\Bakit\source\repos\Лабораторная 8\Лабораторная 8\obj\Debug\Лабораторная 8.csproj.GenerateResource.cache
+C:\Users\Bakit\source\repos\Лабораторная 8\Лабораторная 8\obj\Debug\Лабораторная 8.csproj.CoreCompileInputs.cache
+C:\Users\Bakit\source\repos\Лабораторная 8\Лабораторная 8\bin\Debug\Лабораторная 8.exe.config
+C:\Users\Bakit\source\repos\Лабораторная 8\Лабораторная 8\bin\Debug\Лабораторная 8.exe
+C:\Users\Bakit\source\repos\Лабораторная 8\Лабораторная 8\bin\Debug\Лабораторная 8.pdb
+C:\Users\Bakit\source\repos\Лабораторная 8\Лабораторная 8\obj\Debug\Лабораторная_8.Form1.resources
+C:\Users\Bakit\source\repos\Лабораторная 8\Лабораторная 8\obj\Debug\Лабораторная 8.exe
+C:\Users\Bakit\source\repos\Лабораторная 8\Лабораторная 8\obj\Debug\Лабораторная 8.pdb
